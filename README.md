@@ -92,3 +92,6 @@ qa(question="In which year did Alan Turing introduce the Turing machine?",
 * Liu et al. (2019). RoBERTa: A Robustly Optimized BERT Pretraining Approach.
 * Chen et al. (2017). Reading Wikipedia to Answer Open-Domain Questions.
 * Merity et al. (2016). Pointer Sentinel Mixture Models (WikiText-103).
+
+## Acknowledgements
+- **AI assistance:** an AI assistant (Claude, Opus 5.5) was used to review and improve the code and documentation.
