@@ -54,7 +54,7 @@ The trained models are in the Hugging Face repository [ummeabiha/squad-eqa-runs]
 
 ## Running the notebook
 
-1. Open `squad_qa_colab.ipynb` in Google Colab and choose a T4 GPU (Runtime > Change runtime type).
+1. Open `EQA on Squad.ipynb` in Google Colab and choose a T4 GPU (Runtime > Change runtime type).
 2. Add a Hugging Face token with write access as a Colab secret called `HF_TOKEN` (key icon on the left).
 3. Run all cells. Models, checkpoints, tables and figures are stored in the Hugging Face repository. A model that is already there is downloaded instead of trained again, and an unfinished training run continues from its last checkpoint.
 
